@@ -1,0 +1,6 @@
+@Global_Exception_Handling_Middlewere_HostAddress = http://localhost:5285
+
+GET {{Global_Exception_Handling_Middlewere_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

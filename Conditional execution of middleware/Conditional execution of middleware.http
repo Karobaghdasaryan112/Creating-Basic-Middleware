@@ -1,0 +1,6 @@
+@Conditional_execution_of_middleware_HostAddress = http://localhost:5075
+
+GET {{Conditional_execution_of_middleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
